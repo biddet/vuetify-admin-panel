@@ -11,8 +11,8 @@
 
 var firebaseConfig = {
    apiKey: "AIzaSyBvGNl7SJolibbLp1hkY2dZWLcyt2SAAuo",
-   databaseURL: "https://vuetifyadmin-default-rtdb.firebaseio.com",
    authDomain: "vuetifyadmin.firebaseapp.com",
+   databaseURL: "https://vuetifyadmin-default-rtdb.firebaseio.com",
    projectId: "vuetifyadmin",
    storageBucket: "vuetifyadmin.appspot.com",
    messagingSenderId: "613782349047",
