@@ -10,14 +10,14 @@
 // };
 
 var firebaseConfig = {
-   apiKey: "AIzaSyBpMaPAxOdAvGHn1-uWj2pWBTn6nJ3eVa0",
-   authDomain: "ca-portal-acacf.firebaseapp.com",
-   databaseURL: "https://ca-portal-acacf.firebaseio.com",
-   projectId: "ca-portal-acacf",
-   storageBucket: "ca-portal-acacf.appspot.com",
-   messagingSenderId: "663488554949",
-   appId: "1:663488554949:web:bc2fc2040e5e26661e4dac",
-   measurementId: "G-N1Z4PK24M3"
+   apiKey: "AIzaSyBvGNl7SJolibbLp1hkY2dZWLcyt2SAAuo",
+   databaseURL: "https://vuetifyadmin-default-rtdb.firebaseio.com",
+   authDomain: "vuetifyadmin.firebaseapp.com",
+   projectId: "vuetifyadmin",
+   storageBucket: "vuetifyadmin.appspot.com",
+   messagingSenderId: "613782349047",
+   appId: "1:613782349047:web:1722734c9cfb6b70cc1ff2",
+   measurementId: "G-BM04V3D61F"
 };
 
 export default firebaseConfig;
